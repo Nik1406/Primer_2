@@ -2,7 +2,7 @@ package Ex01_7;
 
 public class WorkWithStringForChange {
     public static void main(String[] args) {
-        String str = "MINSK";
+        String str = "Vladivostok!";
         System.out.println("In main - before call function - str="+str);
         changeString(str);
         System.out.println("In main - after call function - str="+str);
